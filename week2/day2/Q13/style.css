@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  /* Style for main-title using ID selector */
+  #main-title {
+    font-size: 32px;
+    color: darkblue;
+    text-align: center;
+    margin: 20px 0;
+  }
+
+  
+  #subtitle {
+    font-size: 24px;
+    color: darkgreen;
+    margin: 10px 20px;
+  }
+
+  
+  p {
+    padding: 15px;
+    margin: 10px 20px;
+    border: 1px solid #ccc; /* soft border */
+    font-size: 16px;
+  }
